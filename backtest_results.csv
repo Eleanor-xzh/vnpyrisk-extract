@@ -1,0 +1,5 @@
+﻿strategy,symbol,total_return_%,annual_return_%,max_dd_%,sharpe,trade_count,win_rate_%
+DoubleMaStrategy,rb2605.SHFE,-0.17,-0.17,-0.23,-0.86,13,0
+BollChannelStrategy,rb2605.SHFE,0.0,0.0,0.0,0.0,0,0
+AtrRsiStrategy,cu2612.SHFE,-2.35,-2.78,-2.77,-1.35,10,0
+KingKeltnerStrategy,m2605.DCE,0.0,0.0,0.0,0.0,0,0
