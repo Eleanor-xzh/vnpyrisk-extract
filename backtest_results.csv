@@ -1,0 +1,5 @@
+﻿策略,通道(合约),总收益%,年化%,最大回撤%,夏普,总成交,胜率%,盈亏比
+DoubleMaStrategy,rb2605.SHFE,-0.17,-0.17,-0.23,-0.86,13,0,0
+BollChannelStrategy,rb2605.SHFE,0,0,0,0,0,0,0
+AtrRsiStrategy,cu2612.SHFE,-2.35,-2.78,-2.77,-1.35,10,0,0
+KingKeltnerStrategy,m2605.DCE,0,0,0,0,0,0,0
